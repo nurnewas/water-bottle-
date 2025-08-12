@@ -1,9 +1,12 @@
 import "./App.css";
+import Bottles from "./Components/Bottles/Bottles";
+import Header from "./Components/Header/Header";
 
 function App() {
   return (
     <>
-      <h2>Hello</h2>
+      <Header />
+      <Bottles />
     </>
   );
 }

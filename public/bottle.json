@@ -1,0 +1,212 @@
+[
+    {
+        "id": "btl-001",
+        "name": "PureWave Stainless Steel Bottle 750ml",
+        "sellerAddress": {
+            "name": "Aqua Supplies Ltd.",
+            "street": "House 12, Lakeview Road",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "phone": "+8801712345678"
+        },
+        "price": 799.00,
+        "stock": 120,
+        "ratingsCount": 452,
+        "img": "https://example.com/images/purewave-750ml.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 60.00,
+            "estimatedDays": "2-4"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-002",
+        "name": "HydroMax Glass Bottle 1L",
+        "sellerAddress": {
+            "name": "Crystal Water Co.",
+            "street": "45 Green Street",
+            "city": "Chattogram",
+            "country": "Bangladesh",
+            "phone": "+8801812345678"
+        },
+        "price": 950.00,
+        "stock": 80,
+        "ratingsCount": 325,
+        "img": "https://example.com/images/hydromax-glass-1l.jpg",
+        "shipping": {
+            "method": "Express",
+            "cost": 100.00,
+            "estimatedDays": "1-2"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-003",
+        "name": "EcoSip Bamboo Bottle 600ml",
+        "sellerAddress": {
+            "name": "EcoWare BD",
+            "street": "Sector 4, Uttara",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "phone": "+8801911223344"
+        },
+        "price": 699.00,
+        "stock": 50,
+        "ratingsCount": 189,
+        "img": "https://example.com/images/ecosip-bamboo-600ml.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 60.00,
+            "estimatedDays": "3-5"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-004",
+        "name": "ThermaCool Insulated Bottle 500ml",
+        "sellerAddress": {
+            "name": "Chill Gear Ltd.",
+            "street": "12 Hill View",
+            "city": "Sylhet",
+            "country": "Bangladesh",
+            "phone": "+8801555667788"
+        },
+        "price": 850.00,
+        "stock": 60,
+        "ratingsCount": 275,
+        "img": "https://example.com/images/thermacool-500ml.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 70.00,
+            "estimatedDays": "2-3"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-005",
+        "name": "SportFlow Squeeze Bottle 750ml",
+        "sellerAddress": {
+            "name": "Active Life BD",
+            "street": "34 Stadium Road",
+            "city": "Khulna",
+            "country": "Bangladesh",
+            "phone": "+8801888776655"
+        },
+        "price": 450.00,
+        "stock": 200,
+        "ratingsCount": 510,
+        "img": "https://example.com/images/sportflow-750ml.jpg",
+        "shipping": {
+            "method": "Express",
+            "cost": 90.00,
+            "estimatedDays": "1-2"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-006",
+        "name": "UrbanHydro Steel Bottle 1L",
+        "sellerAddress": {
+            "name": "City Gear Ltd.",
+            "street": "25 Banani Road",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "phone": "+8801788995544"
+        },
+        "price": 999.00,
+        "stock": 75,
+        "ratingsCount": 300,
+        "img": "https://example.com/images/urbanhydro-1l.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 80.00,
+            "estimatedDays": "2-4"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-007",
+        "name": "CoolMate Plastic Bottle 1.5L",
+        "sellerAddress": {
+            "name": "Everyday Essentials",
+            "street": "Main Bazaar Road",
+            "city": "Barisal",
+            "country": "Bangladesh",
+            "phone": "+8801666554433"
+        },
+        "price": 350.00,
+        "stock": 300,
+        "ratingsCount": 610,
+        "img": "https://example.com/images/coolmate-1.5l.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 50.00,
+            "estimatedDays": "3-5"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-008",
+        "name": "NatureSip Clay Bottle 800ml",
+        "sellerAddress": {
+            "name": "Organic Craft BD",
+            "street": "Village Road 5",
+            "city": "Rajshahi",
+            "country": "Bangladesh",
+            "phone": "+8801777553322"
+        },
+        "price": 599.00,
+        "stock": 40,
+        "ratingsCount": 145,
+        "img": "https://example.com/images/naturesip-clay-800ml.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 70.00,
+            "estimatedDays": "4-6"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-009",
+        "name": "ChillPro Thermos Bottle 1L",
+        "sellerAddress": {
+            "name": "Thermo Solutions",
+            "street": "Techno Park, Road 3",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "phone": "+8801444556677"
+        },
+        "price": 1190.00,
+        "stock": 55,
+        "ratingsCount": 390,
+        "img": "https://example.com/images/chillpro-1l.jpg",
+        "shipping": {
+            "method": "Express",
+            "cost": 120.00,
+            "estimatedDays": "1-2"
+        },
+        "quantity": 1
+    },
+    {
+        "id": "btl-010",
+        "name": "AquaFlex Collapsible Bottle 500ml",
+        "sellerAddress": {
+            "name": "Travel Gear BD",
+            "street": "Airport Road",
+            "city": "Dhaka",
+            "country": "Bangladesh",
+            "phone": "+8801333445566"
+        },
+        "price": 550.00,
+        "stock": 150,
+        "ratingsCount": 215,
+        "img": "https://example.com/images/aquaflex-500ml.jpg",
+        "shipping": {
+            "method": "Standard",
+            "cost": 60.00,
+            "estimatedDays": "2-4"
+        },
+        "quantity": 1
+    }
+]
