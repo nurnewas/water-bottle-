@@ -1,6 +1,6 @@
 import "./Bottle.css";
 
-const Bottle = ({ bottle }) => {
+const Bottle = ({ bottle, handelAddToCard }) => {
   const { name, img, price, stock } = bottle;
   return (
     <div className="bottle">
@@ -8,6 +8,10 @@ const Bottle = ({ bottle }) => {
       <p>Price: {price}</p>
       <p>Stock: {stock}</p>
       <img src={img} alt="" />
+      <hr />
+      <button onClick={() => handelAddToCard(bottle)} className="btn">
+        Buy
+      </button>
     </div>
   );
 };
