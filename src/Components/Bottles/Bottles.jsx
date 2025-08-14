@@ -25,11 +25,19 @@ const Bottles = () => {
     console.log("called The use effect", bottles.length);
     if (bottles.length > 0) {
       const storeCard = getStoreCard();
-      console.log(storeCard);
+      // console.log(storeCard);
 
+      const saveCard = [];
       for (const id of storeCard) {
         console.log(id);
+        const bottle = bottles.find((bottle) => bottle.id === id);
+        if (bottle) {
+          saveCard.push(bottle);
+        }
       }
+
+      console.log("Save Card", saveCard);
+      setCard(saveCard);
     }
   }, [bottles]);
   return (
