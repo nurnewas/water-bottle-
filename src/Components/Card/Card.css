@@ -1,0 +1,11 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr); /* 5 cards in a row */
+  gap: 0.5rem; /* spacing between cards */
+}
+
+.card-container img {
+  border: 2px solid rgb(180, 180, 107);
+  width: 100px;
+  border-radius: 15px;
+}
